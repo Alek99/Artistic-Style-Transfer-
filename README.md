@@ -11,7 +11,7 @@ The implementation of instance normalization as described in the paper  **[Insta
 
 # Results
 <p float="left">
-  <img src="/Results/golden.jpg_tower.jpg_501.jpg" width="100" />
-  <img src="/Results/golden.jpg_tower.jpg_501.jpg" width="100" /> 
-  <img src="/Results/golden.jpg_tower.jpg_501.jpg" width="100" />
+  <img src="/Results/golden.jpg_tower.jpg_501.jpg" width="300" />
+  <img src="/Results/golden.jpg_tower.jpg_501.jpg" width="300" /> 
+  <img src="/Results/golden.jpg_tower.jpg_501.jpg" width="300" />
 </p>
